@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://media.giphy.com/media/v9ODHptaYI97tJsKq8/giphy.gif
+![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulahemsi&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulahemsi&layout=compact&theme=midnight-purple)](https://github.com/paulahemsi)
