@@ -1,19 +1,23 @@
-### Hi there 👋
+![](breathing_tree.gif)
 
-<!--
-**paulahemsi/paulahemsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Paula Hemsi a self-learner and software engeneering student at [42 school](https://www.42.fr/)
 
-Here are some ideas to get you started:
+*  🔭 I’m currently working on ...
+*  🌱 I’m currently learning C
+*  👯 I’m looking to collaborate on ...
+*  🤔 I’m looking for help with ...
+* :woman_astronaut: Curently I am studying software engeneering at [42 São Paulo](https://www.42sp.org.br/)
+*  💬 Ask me about ...
+*  📫 How to reach me: 
+*  :kite: Hobbies: creative coding, eletronics and board games
+*  ⚡ Fun fact: I lived on a circus :circus_tent: and I love cold weathers :snowflake:
+*  :joystick: Wanna play any of the games I made? 
+  *  [Ôma]() 
+  *  [Tireland]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-https://media.giphy.com/media/v9ODHptaYI97tJsKq8/giphy.gif
-![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulahemsi&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulahemsi&layout=compact&theme=midnight-purple)](https://github.com/paulahemsi)
+
+
+
+
+![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulahemsi&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulahemsi&layout=compact&theme=radical)](https://github.com/paulahemsi)
