@@ -12,8 +12,8 @@ I'm also deeply interested in profound talks about human beeing and knowing othe
 *  👩‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
 *  🌱 I’m currently learning C, Unix and data science
 *  🤓 I’m interested in machine learning and ia
-*  💬 Ask me about anything, I am happy to help
-*  🪁 Hobbies: eletronics, board games and creative coding, like this 2020's [breathing tree](breathing_tree.gif)
+*  💬 Ask me about anything, I'm happy to help
+*  🪁 Hobbies: eletronics, board games and creative coding
 *  ⚡ Fun fact: I lived on a circus :circus_tent: and I love cold weathers :snowflake:
 *  🕹️ Wanna play any of the games I made? 
    *  [Ôma](https://www.youtube.com/watch?v=MDV8i0geiro) 
