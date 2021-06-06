@@ -1,21 +1,24 @@
 ![](breathing_tree.gif)
 
-I'm Paula Hemsi a self-learner and software engeneering student at [école 42](https://www.42.fr/)
+I'm Paula Hemsi an avid self-learner and software engeneering student at [école 42](https://www.42.fr/). I spent the last years of my live around stages and backstages, until the pandemic arrived in Brasil. In 2020 I discovered programming and I've been hacking away at computers since then. 
+
+I'm passionate about logic since childhood, and love to program 'cause it's a challenging, creative activity that exercises a wide array of mental skills. 
+
+I'm also deeply interested in profound talks about human beeing and knowing other cultures, it would be remarkably interesting to live in each locality, sampling the cuisine, culture, and philosophies.
 
 ---
 
 *  🔭 I’m currently working on [push_swap](https://phemsi-a.itch.io/push-swap) algorithm project
+*  👩‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
 *  🌱 I’m currently learning C, Unix and data science
-*  👯 I’m looking to collaborate on ...
-*  🤔 I’m looking for help with ...
-* :woman_astronaut: Cadet at [42 São Paulo](https://www.42sp.org.br/)
-*  💬 Ask me about ...
-*  :kite: Hobbies: creative coding, eletronics and board games
+*  🤓 I’m interested in machine learning and ia
+*  💬 Ask me about anything, I am happy to help
+*  🪁 Hobbies: eletronics, board games and creative coding, like this 2020's [breathing tree](breathing_tree.gif)
 *  ⚡ Fun fact: I lived on a circus :circus_tent: and I love cold weathers :snowflake:
-*  :joystick: Wanna play any of the games I made? 
+*  🕹️ Wanna play any of the games I made? 
    *  [Ôma](https://www.youtube.com/watch?v=MDV8i0geiro) 
    *  [Tireland](https://lazybees.itch.io/tiredland)
-* I used to be creative director, actress and awarded light designer. You can give a look in some of my works with [ultraVioleta_s](https://paulahemsi.github.io/ultraVioleta_s/) company:
+*  🎭 I used to be creative director, actress and awarded light designer. You can give a look in some of my works with [ultraVioleta_s](https://paulahemsi.github.io/ultraVioleta_s/) company:
    * [Farewell, Dead Clowns](https://www.youtube.com/watch?v=GJ3UkCx8oco)
    * [The Days I Don't Die](https://www.youtube.com/watch?v=2b_2V-H-lT8)
 
