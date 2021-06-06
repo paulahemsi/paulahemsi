@@ -32,3 +32,5 @@ I'm also deeply interested in profound talks about human beeing and knowing othe
  [![Paula's 42 stats](https://badge42.herokuapp.com/api/stats/phemsi-a?privacyEmail=true&cursus=42cursus&privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaulahemsi&count_bg=%23AE0B9F&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+![](https://komarev.com/ghpvc/?username=paulahemsi)
