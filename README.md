@@ -22,9 +22,9 @@ I'm Paula Hemsi a self-learner and software engeneering student at [école 42](h
 ---
 
  
- [![Paula's 42 stats](https://badge42.herokuapp.com/api/stats/phemsi-a?privacyEmail=true&cursus=42cursus&privacyName=true)](https://github.com/JaeSeoKim/badge42)
  ![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulahemsi&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulahemsi&layout=compact&theme=radical)](https://github.com/paulahemsi)
  
 
+ [![Paula's 42 stats](https://badge42.herokuapp.com/api/stats/phemsi-a?privacyEmail=true&cursus=42cursus&privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
