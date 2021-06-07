@@ -4,7 +4,7 @@ I'm Paula Hemsi an avid self-learner and software engeneering student at [école
 
 I'm passionate about logic since childhood, and love to program 'cause it's a challenging, creative activity that exercises a wide array of mental skills. 
 
-I'm also deeply interested in profound talks about human beeing and knowing other cultures, it would be remarkably interesting to live in each locality, sampling the cuisine, culture, and philosophies.
+I'm also deeply interested in profound talks about human beeing and knowing other cultures, it would be remarkably interesting to live in diferent localitys, tasting diferent cuisine, knowing others views and philosophies.
 
 ---
 
@@ -16,8 +16,10 @@ I'm also deeply interested in profound talks about human beeing and knowing othe
 *  🪁 Hobbies: eletronics, board games and creative coding
 *  ⚡ Fun fact: I lived on a circus :circus_tent: and I love cold weathers :snowflake:
 *  🕹️ Wanna play any of the games I made? 
-   *  [Ôma](https://www.youtube.com/watch?v=MDV8i0geiro) 
+   *  [Ôma](https://ultravioleta-s.itch.io/oma) {password: oma2021}
    *  [Tireland](https://lazybees.itch.io/tiredland)
+   *  [Push_Swap](https://phemsi-a.itch.io/push-swap)
+   *  [PB maze](https://github.com/paulahemsi/cub3d)
 *  🎭 I used to be creative director, actress and awarded light designer. You can give a look in some of my works with [ultraVioleta_s](https://paulahemsi.github.io/ultraVioleta_s/) company:
    * [Farewell, Dead Clowns](https://www.youtube.com/watch?v=GJ3UkCx8oco)
    * [The Days I Don't Die](https://www.youtube.com/watch?v=2b_2V-H-lT8)
@@ -31,6 +33,3 @@ I'm also deeply interested in profound talks about human beeing and knowing othe
 
  [![Paula's 42 stats](https://badge42.herokuapp.com/api/stats/phemsi-a?privacyEmail=true&cursus=42cursus&privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaulahemsi&count_bg=%23AE0B9F&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-![](https://komarev.com/ghpvc/?username=paulahemsi)
