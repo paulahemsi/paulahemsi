@@ -1,6 +1,6 @@
 ![](breathing_tree.gif)
 
-I'm Paula Hemsi an avid self-learner and software engeneering student at [école 42](https://www.42.fr/). I spent the last years of my live around stages and backstages, until the pandemic arrived in Brasil. In 2020 I discovered programming and I've been hacking away at computers since then. 
+Hi there! I'm Paula Hemsi an avid self-learner and software engeneering student at [école 42](https://www.42.fr/). I spent the last years of my live around stages and backstages, until the pandemic arrived in Brasil. In 2020 I discovered programming and I've been hacking away at computers since then. 
 
 I'm passionate about logic since childhood, and currently in love with software development, this challenging and creative activity that exercises a wide array of mental skills. 
 
