@@ -1,4 +1,4 @@
-![](breathing_tree.gif)
+![breathing tree, paula hemsi 2020 with p5js](breathing_tree.gif)
 
 Hi there! I'm Paula Hemsi an avid self-learner and software engeneering student at [école 42](https://www.42.fr/). I spent the last years of my live around stages and backstages, until the pandemic arrived in Brasil. In 2020 I discovered programming and I've been hacking away at computers since then. 
 
