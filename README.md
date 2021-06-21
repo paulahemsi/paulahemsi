@@ -6,7 +6,7 @@ I'm also deeply interested in knowing other cultures, it would be marvelous to l
 
 ---
 
-*  🔭 I’m currently working on the [push_swap](https://phemsi-a.itch.io/push-swap) algorithm project
+*  🔭 I’m currently working on the [minishell](https://github.com/appinha/42cursus-03-minishell) project
 *  👩‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
 *  🌱 I’m currently learning C, Unix and computer science
 *  🤓 I’m interested in machine learning and AI
