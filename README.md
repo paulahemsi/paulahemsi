@@ -6,10 +6,8 @@ I'm also deeply interested in knowing other cultures, it would be marvelous to l
 
 ---
 
-*  🔭 I’m currently working on the [philosophers](https://github.com/paulahemsi/philosophers) project
+*  🌱 I’m currently learning [C++](https://github.com/paulahemsi/piscine_cpp), [Python](https://github.com/paulahemsi/HiPy) Unix and computer science
 *  👩‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
-*  🌱 I’m currently learning C, Unix and computer science
-*  🤓 I’m interested in machine learning and AI
 *  🕹️ Wanna play any of the games I made? 
    *  [Ôma](https://ultravioleta-s.itch.io/oma) {password: oma2021}
    *  [Tireland](https://lazybees.itch.io/tiredland)
