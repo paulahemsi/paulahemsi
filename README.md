@@ -6,7 +6,7 @@ I'm also deeply interested in knowing other cultures, it would be marvelous to l
 
 ---
 
-*  🌱 I’m currently learning [C++](https://github.com/paulahemsi/piscine_cpp), [Python](https://github.com/paulahemsi/HiPy), Unix and computer science
+*  🌱 I’m currently learning C++, Python and software engineering
 *  👩‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
 *  🕹️ Wanna play any of the games I made? 
    *  [Ôma](https://ultravioleta-s.itch.io/oma) {password: oma2021}
