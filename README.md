@@ -23,8 +23,9 @@ I'm also deeply interested in knowing other cultures, it would be marvelous to l
 ---
 
  
- ![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulahemsi&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulahemsi&layout=compact&theme=radical)](https://github.com/paulahemsi)
+ 
+ ![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulahemsi&show_icons=true&theme=radical)
  
 
  [![phemsi-a's 42 stats](https://badge42.vercel.app/api/v2/cl1qyakyt025609ldnqbbyw6x/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
