@@ -6,8 +6,10 @@ I'm also deeply interested in knowing other cultures, it would be marvelous to l
 
 ---
 
-*  🌱 I’m currently learning C++, Python and software engineering
+*  🌱 Always learning
+*  💻 Software engineer at Loggi
 *  👩‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
+*  :octocat: Languages: C, C++, Python, JS
 *  🕹️ Wanna play any of the games I made? 
    *  [Ôma](https://ultravioleta-s.itch.io/oma) {password: oma2021}
    *  [Tireland](https://lazybees.itch.io/tiredland)
