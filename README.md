@@ -7,7 +7,7 @@ I'm also deeply interested in knowing other cultures, it would be marvelous to l
 ---
 
 *  🌱 Always learning
-*  💻 Software engineer at Loggi
+*  💻 Software engineer at Mercado Livre
 *  👩‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
 *  :octocat: Languages: C, C++, Python, JS
 *  🕹️ Wanna play any of the games I made? 
