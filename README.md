@@ -9,7 +9,7 @@ I'm also deeply interested in knowing other cultures, it would be marvelous to l
 *  🌱 Always learning
 *  💻 Software engineer at Mercado Livre
 *  👩‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
-*  :octocat: Languages: C, C++, Python, JS
+*  :octocat: Languages: C, C++, Python, JS, Go
 *  🕹️ Wanna play any of the games I made? 
    *  [Ôma](https://ultravioleta-s.itch.io/oma) {password: oma2021}
    *  [Tireland](https://lazybees.itch.io/tiredland)
@@ -29,6 +29,4 @@ I'm also deeply interested in knowing other cultures, it would be marvelous to l
  
  ![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulahemsi&show_icons=true&theme=radical)
  
-
- [![phemsi-a's 42 stats](https://badge42.vercel.app/api/v2/cl1qyakyt025609ldnqbbyw6x/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
