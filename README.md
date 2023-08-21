@@ -1,6 +1,6 @@
 ![breathing tree, paula hemsi 2020 with p5js](breathing_tree.gif)
 
-Hi there! I'm Paula Hemsi, an avid self-learner, student at [école 42](https://www.42.fr/) and software engineer at Mercado Livre. I've been passionate about logic since childhood, but the last years of my life were spent around stages and backstages, until the pandemic arrived in Brazil. In 2020 programming arrived in my life and I'm totally in love with it since then. 
+Hi there! I'm Paula Hemsi, an avid self-learner, graduated from [école 42](https://www.42.fr/) and software engineer at Mercado Livre. I've been passionate about logic since childhood, but the last years of my life were spent around stages and backstages, until the pandemic arrived in Brazil. In 2020 programming arrived in my life and I'm totally in love with it since then. 
 
 I'm also deeply interested in knowing other cultures, it would be marvelous to live in different places, tasting different cuisines, getting to know new landscapes and philosophies.
 
@@ -8,8 +8,8 @@ I'm also deeply interested in knowing other cultures, it would be marvelous to l
 
 *  🌱 Always learning
 *  💻 Software engineer at Mercado Livre
-*  👩‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
-*  :octocat: Languages: C, C++, Python, JS, Go
+*  👩‍🚀 Graduated from [42 São Paulo](https://www.42sp.org.br/)
+*  :octocat: Languages: C, C++, Python, JS, Go, TS
 *  🕹️ Wanna play any of the games I made? 
    *  [Ôma](https://ultravioleta-s.itch.io/oma) {password: oma2021}
    *  [Tireland](https://lazybees.itch.io/tiredland)
