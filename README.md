@@ -7,7 +7,7 @@ I'm also deeply interested in knowing other cultures, it would be marvelous to l
 ---
 
 *  🌱 Always learning
-*  💻 Software engineer at Mercado Livre
+*  💻 Software engineer at Uber
 *  👩‍🚀 Graduated from [42 São Paulo](https://www.42sp.org.br/)
 *  :octocat: Languages: C, C++, Python, JS, Go, TS
 *  🕹️ Wanna play any of the games I made? 
